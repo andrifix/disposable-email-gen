@@ -8,7 +8,7 @@ There are two ways to install:
 
 **1. Download from Releases:**
 
-Pre-compiled binaries are available on the [**GitHub Releases**](https://github.com/andirifx/disposable-email-gen@/releases) page. 
+Pre-compiled binaries are available on the [**GitHub Releases**](https://github.com/andrifix/disposable-email-gen/releases) page. 
 
 **2. Build from Source:**
 
